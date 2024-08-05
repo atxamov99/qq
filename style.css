@@ -1,0 +1,255 @@
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 25px;
+    margin-bottom: 0px;
+}
+ul a{
+    text-decoration: none;
+    transition: 0.5;
+    color: #1F1534;
+}
+ul a:hover{
+    color: black;
+    font-weight: bold;
+}
+.p_p{
+    margin-top: 55px;
+    display: flex;
+}
+.left{
+    width: 292p;
+    font-size: 20px;
+}
+.knopka{
+    border-radius: 25px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #458FF6;
+    border: 3px solid #458FF6;
+    transition: 0.5;
+    background-color: white;
+}
+.left .knopka:hover{
+    background-color: #458FF6;
+    color: white;
+}
+.right{
+    background: url(header.png) no-repeat;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+    margin-left: 600px;
+}
+.p2p{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.mm{
+    color: #7D7987;
+    width: 900px;
+    text-align: center;
+    margin-left: 300px;
+}
+.karopka1{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    background: url(lumpa-removebg-preview.png)no-repeat;
+}
+.karopka2{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    background: url(dori-removebg-preview.png)no-repeat;
+}
+.karopka3{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    background: url(tel-removebg-preview\ \(1\).png)no-repeat;
+}.karopka4{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    margin-left: 20px;
+    background: url(4-removebg-preview.png)no-repeat;
+    
+}
+.karopka5{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    margin-left: -20px;
+    background: url(5-removebg-preview.png)no-repeat;
+    
+    
+}
+.karopka6{
+    background-color: #E7E7E7;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    margin: 50px;
+    margin-left: 10px;
+    background: url(6-removebg-preview.png)no-repeat;
+    
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: black;
+    
+}
+.karopka1:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+.karopka2:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+.karopka3:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+.karopka4:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+.karopka5:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+.karopka6:hover{
+    background-color: #5A98F2;
+    color: white;
+}
+h3{
+    margin-top: 120px;
+}
+.text{
+    font-size: 15px;
+    width: 200px;
+    margin-left: 10px;
+}
+.ptp{
+    border-radius: 25px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #458FF6;
+    border: 3px solid #458FF6;
+    transition: 0.5;
+    background-color: white;
+    margin-left: 611px;
+}
+.ptp:hover{
+    background-color: #458FF6;
+    color: white;
+}
+.img_2{
+    width: 650px;
+    height: 500px;
+}
+.pjp{
+    display: flex;
+    justify-content: space-between;
+}
+.right_3{
+    width: 350px;
+    margin-right: 100px;
+    color: #7D7987;
+}
+h2{
+    width: 200px;
+    color: black;
+}
+.pdp{
+    border-radius: 25px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #458FF6;
+    border: 3px solid #458FF6;
+    transition: 0.5;
+    background-color: white;
+}
+.pdp:hover{
+    background-color: #458FF6;
+    color: white;
+}
+.hh2{
+    display: flex;
+    justify-content: center;
+}
+.start{
+    width: 200px;
+    
+}
+.main_3{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    color: #7D7987;
+}
+.center{
+    margin-left: 200px;
+}
+h3{
+    color: black;
+}
+.all{
+    border-radius: 25px;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #458FF6;
+    border: 3px solid #458FF6;
+    transition: 0.5;
+    background-color: white;
+    margin-left: 600px;
+}
+.all:hover{
+    background-color: #458FF6;
+    color: white;
+}
+footer{
+    background-color: #458FF6;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    color: wheat;
+    line-height: 500px;
+    
+}
+p{
+    margin-left: 100px;
+    font-size: 25px;
+}
+.php{
+    font-size: 15px;
+    
+}
+
+
